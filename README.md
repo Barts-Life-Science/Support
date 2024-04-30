@@ -14,10 +14,11 @@ A repository for documentation and support.
 
 2. Click **New issue.**
 
-3. If the type of issue you'd like to open isn't included in the available options, click **Open a blank issue.**
-<img src="https://github.com/Barts-Life-Science/Support/assets/6781914/85675111-39f0-4acd-8e7d-810976572f7a" width="800">
+3. In the title section, type the title for your issue.
 
 4. In the comment body field, type a description of your issue.
 
+5. Use the right hand bar to assign the issue to individual people, apply labels such as 'bug' and/or associate it with a project.
+   
 7. When you're finished, click **Submit new issue.**
 
