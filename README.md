@@ -6,3 +6,18 @@ A repository for documentation and support.
 |-----:|
 |[Creating an issue](https://github.com/Barts-Life-Science/Support/wiki/Creating-Issues) |
 
+***
+
+## To Raise an issue
+1. In the menu above, click **Issues.**
+<img src="https://github.com/Barts-Life-Science/Support/assets/6781914/f1b66e3b-3df6-47d1-aa74-e71ee561b30e" width="800">
+
+2. Click **New issue.**
+
+3. If the type of issue you'd like to open isn't included in the available options, click **Open a blank issue.**
+<img src="https://github.com/Barts-Life-Science/Support/assets/6781914/85675111-39f0-4acd-8e7d-810976572f7a" width="800">
+
+4. In the comment body field, type a description of your issue.
+
+7. When you're finished, click **Submit new issue.**
+
