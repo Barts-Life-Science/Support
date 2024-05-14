@@ -18,8 +18,6 @@ A repository for documentation and support.
 <img src="https://github.com/Barts-Life-Science/Support/assets/6781914/85675111-39f0-4acd-8e7d-810976572f7a" width="800">
 
 4. In the comment body field, type a description of your issue.
-
-5. Use the right hand bar to apply labels such as 'bug' and/or associate it with a project. Under 'Labels' describe if this is a bug in the software or something missing or incorrect in the documentation. Please let us know in which Project the problem has occurred - the Data Portal or the TRE/SDE.
    
-6. When you're finished, click **Submit new issue.**
+5. When you're finished, click **Submit new issue.**
 
