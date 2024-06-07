@@ -1,10 +1,11 @@
-# Support
-A repository for documentation and support.
+# Barts Life Science Precision Medicine Platform
+The documentation and support provided here relates to the following services that are part of the Barts Life Science Precision Medicine Platform:
+* Barts Health Data Access Portal - Information on the work being undertaken with Barts Health data and the process for requesting access.  
+* Barts Health Secure Data Environment - Information on the data analysis environment and how it can be accessed by authroised Users. [Documentation](https://github.com/Barts-Life-Science/AzureTRE/wiki/Home)
 
-
-| Processes |
-|-----:|
-|[Creating an issue](https://github.com/Barts-Life-Science/Support/wiki/Creating-Issues) |
+If you are not able to find a resolution to your issue in the documentation, please use the following supoport mechanisms:
+* [Creating an issue in GitHub](https://github.com/Barts-Life-Science/Support/wiki/Creating-Issues) (Our preferred route)
+* Sending an email to [bartshealth.researchdatasupport@nhs.net ](mailto:bartshealth.researchdatasupport@nhs.net)
 
 ***
 
