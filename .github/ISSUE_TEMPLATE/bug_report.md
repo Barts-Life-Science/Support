@@ -10,6 +10,12 @@ assignees: ''
 **Describe the bug**
 A clear and concise description of what the bug is.
 
+**If your issue relates to the SDE, include:**
+1. The name of your project
+2. The name of the VM you're using, or whichever other resource is showing the issue.
+3. Have you checked [the SDE documentation](https://barts-life-science.github.io/sde/Home.html) to see if there's a workaround?
+4. Have you checked to see if this issue has already been filed by someone else?
+
 **To Reproduce**
 Steps to reproduce the behavior:
 1. Go to '...'
